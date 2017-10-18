@@ -1,0 +1,53 @@
+
+.cuadrado_rojo{
+  width: 400px;
+  height: 400px;
+  background: red;
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
+
+.cuadrado_morado{
+  width: 200px;
+  height: 200px;
+  background: purple;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+}
+
+.cuadrado_amarillo{
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+}
+
+.cuadrado_azul{
+  width: 400px;
+  height: 400px;
+  background: blue;
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
+
+.cuadrado_verde{
+  width: 200px;
+  height: 200px;
+  background: green;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+}
+
+.cuadrado_negro{
+  width: 100px;
+  height: 100px;
+  background: black;
+  position: absolute;
+  left: 400px;
+  top: 100px;
